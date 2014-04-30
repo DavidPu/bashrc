@@ -9,3 +9,6 @@
 ##
 ## Here you add your aliases, sets, completions and bindkeys that you want
 ## to override from the default settings.
+
+## homebrew packages get top priority as Mac OS X sets /usr/bin first.
+PATH=/usr/local/bin:$PATH
