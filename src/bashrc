@@ -56,7 +56,4 @@ source $HOME/.bashrc.complete
 source $HOME/.bashrc.local
 
 #        commands for interactive shells
-## FIXME this is an example, shows date and current directory
 date
-pwd
-
