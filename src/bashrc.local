@@ -20,3 +20,6 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 export EDITOR=emacs
 export SHELL=/bin/bash
+
+## Uncomment to enable tmuxinator
+#source ~/.bin/tmuxinator.bash
